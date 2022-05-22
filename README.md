@@ -13,7 +13,7 @@
 - [x] https://leetcode.com/problems/daily-temperatures/
 - [ ] https://leetcode.com/problems/combination-sum-ii/
 - [ ] https://leetcode.com/problems/ugly-number-ii/
-- [ ] https://leetcode.com/problems/climbing-stairs
+- [x] https://leetcode.com/problems/climbing-stairs
 
 
 
