@@ -10,7 +10,7 @@
 
 - [ ] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 - [ ] https://leetcode.com/problems/basic-calculator-ii/
-- [ ] https://leetcode.com/problems/daily-temperatures/
+- [x] https://leetcode.com/problems/daily-temperatures/
 - [ ] https://leetcode.com/problems/combination-sum-ii/
 - [ ] https://leetcode.com/problems/ugly-number-ii/
 - [ ] https://leetcode.com/problems/climbing-stairs
