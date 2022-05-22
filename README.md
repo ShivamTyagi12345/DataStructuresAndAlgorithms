@@ -22,8 +22,8 @@
 - [ ] https://leetcode.com/problems/maximum-product-subarray/
 - [ ] https://leetcode.com/problems/ones-and-zeroes/
 - [ ] https://leetcode.com/problems/counting-bits/
-- [ ] https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
-- [ ] https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
+- [x] https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
+- [x] https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
 - [ ] https://leetcode.com/problems/number-of-islands/
 - [x] https://leetcode.com/contest/weekly-contest-294/problems/percentage-of-letter-in-string/
 - [x] https://leetcode.com/contest/weekly-contest-294/problems/maximum-bags-with-full-capacity-of-rocks/
