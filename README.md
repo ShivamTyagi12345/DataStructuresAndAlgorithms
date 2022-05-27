@@ -29,12 +29,12 @@
 - [x] https://leetcode.com/contest/weekly-contest-294/problems/maximum-bags-with-full-capacity-of-rocks/
 
 ## day4
-- [ ] https://leetcode.com/problems/middle-of-the-linked-list/
-- [ ] https://leetcode.com/problems/linked-list-cycle/
-- [ ] https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
-- [ ] https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+- [x] https://leetcode.com/problems/middle-of-the-linked-list/
+- [x] https://leetcode.com/problems/linked-list-cycle/
+- [x] https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+- [x] https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 - [ ] https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/
-- [ ] https://leetcode.com/problems/invert-binary-tree/
+- [x] https://leetcode.com/problems/invert-binary-tree/
 
 ## day8
 - [ ] https://leetcode.com/problems/set-matrix-zeroes/

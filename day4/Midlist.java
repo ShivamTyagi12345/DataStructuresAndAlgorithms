@@ -29,4 +29,12 @@ class Solution {
         System.out.println(res.val);
 
     }
+
+    public ListNode deleteDuplicates(ListNode head) {
+        return null;
+    }
+
+    public int treeheight(TreeNode root) {
+        return 0;
+    }
 }
