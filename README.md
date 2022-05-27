@@ -35,3 +35,12 @@
 - [ ] https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 - [ ] https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/
 - [ ] https://leetcode.com/problems/invert-binary-tree/
+
+## day5
+- [ ] https://leetcode.com/problems/set-matrix-zeroes/
+- [ ] https://leetcode.com/problems/integer-to-roman/
+- [ ] https://leetcode.com/problems/power-of-two/
+- [ ] https://leetcode.com/problems/online-stock-span/
+- [ ] https://leetcode.com/problems/subtree-of-another-tree/
+- [ ] https://leetcode.com/problems/flood-fill/
+
