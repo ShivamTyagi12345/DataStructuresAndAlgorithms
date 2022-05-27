@@ -36,7 +36,7 @@
 - [ ] https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/
 - [ ] https://leetcode.com/problems/invert-binary-tree/
 
-## day5
+## day8
 - [ ] https://leetcode.com/problems/set-matrix-zeroes/
 - [ ] https://leetcode.com/problems/integer-to-roman/
 - [ ] https://leetcode.com/problems/power-of-two/
