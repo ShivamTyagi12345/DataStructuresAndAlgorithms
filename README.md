@@ -36,11 +36,28 @@
 - [ ] https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/
 - [x] https://leetcode.com/problems/invert-binary-tree/
 
+## day5
+- [ ] https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1
+- [ ] https://leetcode.com/problems/combinations/
+- [ ] https://leetcode.com/problems/knight-dialer/
+- [ ] https://leetcode.com/problems/furthest-building-you-can-reach/
+- [ ] https://leetcode.com/problems/design-add-and-search-words-data-structure/
+- [ ] https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
+
+
 ## day8
 - [ ] https://leetcode.com/problems/set-matrix-zeroes/
 - [ ] https://leetcode.com/problems/integer-to-roman/
-- [ ] https://leetcode.com/problems/power-of-two/
+- [x] https://leetcode.com/problems/power-of-two/
 - [ ] https://leetcode.com/problems/online-stock-span/
 - [ ] https://leetcode.com/problems/subtree-of-another-tree/
 - [ ] https://leetcode.com/problems/flood-fill/
+
+## day9
+- [ ] https://leetcode.com/problems/range-sum-of-bst/
+- [ ] https://leetcode.com/problems/implement-queue-using-stacks/
+- [ ] https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
+- [ ] https://leetcode.com/problems/valid-parentheses/
+- [x] https://leetcode.com/problems/3sum/
+- [ ] https://leetcode.com/problems/group-anagrams/
 
