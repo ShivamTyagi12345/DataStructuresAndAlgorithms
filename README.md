@@ -52,6 +52,14 @@
 - [ ] https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1/
 - [ ] https://leetcode.com/problems/k-closest-points-to-origin/
 
+## day 7
+- [ ] https://practice.geeksforgeeks.org/problems/cutted-segments1642/1
+- [ ] https://leetcode.com/problems/unique-paths/
+- [ ] https://leetcode.com/problems/minimum-path-sum/
+- [ ] https://leetcode.com/problems/coin-change/
+- [ ] https://leetcode.com/problems/decode-ways/
+- [ ] https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+
 
 
 ## day8
