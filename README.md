@@ -3,7 +3,7 @@
 - [x] https://leetcode.com/problems/design-add-and-search-words-data-structure/
 - [x] https://leetcode.com/problems/top-k-frequent-elements
 - [x] https://leetcode.com/problems/find-peak-element/
-- [ ] https://leetcode.com/problems/remove-linked-list-elements/
+- [x] https://leetcode.com/problems/remove-linked-list-elements/
 - [ ] https://leetcode.com/problems/remove-k-digits/
 - [x] https://leetcode.com/problems/kth-largest-element-in-an-array/
 ## day2 
@@ -37,12 +37,21 @@
 - [x] https://leetcode.com/problems/invert-binary-tree/
 
 ## day5
-- [ ] https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1
-- [ ] https://leetcode.com/problems/combinations/
+- [x] https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1
+- [x] https://leetcode.com/problems/combinations/
 - [ ] https://leetcode.com/problems/knight-dialer/
 - [ ] https://leetcode.com/problems/furthest-building-you-can-reach/
 - [ ] https://leetcode.com/problems/design-add-and-search-words-data-structure/
 - [ ] https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
+
+## day6
+- [ ] https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+- [ ] https://leetcode.com/problems/reorganize-string/
+- [ ] https://leetcode.com/problems/find-the-most-competitive-subsequence/
+- [ ] https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1/
+- [ ] https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1/
+- [ ] https://leetcode.com/problems/k-closest-points-to-origin/
+
 
 
 ## day8
@@ -60,4 +69,21 @@
 - [ ] https://leetcode.com/problems/valid-parentheses/
 - [x] https://leetcode.com/problems/3sum/
 - [ ] https://leetcode.com/problems/group-anagrams/
+
+## day 10
+- [ ] https://www.geeksforgeeks.org/word-break-problem-trie-solution/
+- [ ] https://www.geeksforgeeks.org/trie-insert-and-search/
+- [ ] https://practice.geeksforgeeks.org/problems/k-anagrams-1/0
+- [ ] https://leetcode.com/problems/palindrome-pairs/
+- [ ] https://practice.geeksforgeeks.org/problems/phone-directory/0
+- [ ] https://leetcode.com/problems/decode-string/
+
+## day 11
+- [ ] https://leetcode.com/problems/merge-two-sorted-lists/
+- [ ] https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/
+- [ ] https://leetcode.com/problems/intersection-of-two-linked-lists/
+- [ ] https://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/
+- [ ] https://leetcode.com/problems/palindrome-linked-list/
+- [ ] https://leetcode.com/problems/reverse-linked-list/
+
 
