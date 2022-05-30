@@ -92,6 +92,6 @@
 - [ ] https://leetcode.com/problems/intersection-of-two-linked-lists/
 - [ ] https://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/
 - [ ] https://leetcode.com/problems/palindrome-linked-list/
-- [ ] https://leetcode.com/problems/reverse-linked-list/
+- [x] https://leetcode.com/problems/reverse-linked-list/
 
 
