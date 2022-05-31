@@ -51,6 +51,7 @@
 - [x] https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1/
 - [ ] https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1/
 - [ ] https://leetcode.com/problems/k-closest-points-to-origin/
+- [x] https://leetcode.com/problems/partition-labels/
 
 ## day 7
 - [ ] https://practice.geeksforgeeks.org/problems/cutted-segments1642/1
