@@ -40,7 +40,7 @@
 - [x] https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1
 - [x] https://leetcode.com/problems/combinations/
 - [ ] https://leetcode.com/problems/knight-dialer/
-- [ ] https://leetcode.com/problems/furthest-building-you-can-reach/
+- [x] https://leetcode.com/problems/furthest-building-you-can-reach/
 - [ ] https://leetcode.com/problems/design-add-and-search-words-data-structure/
 - [ ] https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
 
@@ -56,7 +56,7 @@
 - [ ] https://practice.geeksforgeeks.org/problems/cutted-segments1642/1
 - [ ] https://leetcode.com/problems/unique-paths/
 - [ ] https://leetcode.com/problems/minimum-path-sum/
-- [ ] https://leetcode.com/problems/coin-change/
+- [x] https://leetcode.com/problems/coin-change/
 - [ ] https://leetcode.com/problems/decode-ways/
 - [ ] https://leetcode.com/problems/maximum-length-of-repeated-subarray/
 
