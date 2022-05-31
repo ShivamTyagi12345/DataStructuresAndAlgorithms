@@ -48,7 +48,7 @@
 - [ ] https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 - [ ] https://leetcode.com/problems/reorganize-string/
 - [ ] https://leetcode.com/problems/find-the-most-competitive-subsequence/
-- [ ] https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1/
+- [x] https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1/
 - [ ] https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1/
 - [ ] https://leetcode.com/problems/k-closest-points-to-origin/
 
