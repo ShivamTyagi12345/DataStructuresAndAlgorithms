@@ -94,4 +94,12 @@
 - [ ] https://leetcode.com/problems/palindrome-linked-list/
 - [x] https://leetcode.com/problems/reverse-linked-list/
 
+## day 12
+- [ ] https://leetcode.com/problems/longest-increasing-subsequence/
+- [ ] https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1
+- [ ] https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+- [ ] https://leetcode.com/problems/maximal-square/
+- [ ] https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1
+- [ ] https://www.geeksforgeeks.org/weighted-job-scheduling/
+
 
