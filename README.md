@@ -56,6 +56,17 @@
 - [x] https://leetcode.com/problems/reverse-linked-list/
 
 ## day 12
+- https://leetcode.com/problems/maximum-subarray/submissions/
+- https://leetcode.com/submissions/detail/711832916/
+- https://leetcode.com/submissions/detail/711783510/
+
+## day 13
+- https://leetcode.com/submissions/detail/711965311/
+- https://leetcode.com/problems/delete-operation-for-two-strings/
+- https://leetcode.com/problems/longest-palindromic-subsequence/
+- https://leetcode.com/problems/running-sum-of-1d-array/
+
+## day 14( target 20 questions)
 - 
 
 
