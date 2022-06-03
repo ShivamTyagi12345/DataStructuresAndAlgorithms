@@ -73,12 +73,14 @@
 - [x] https://leetcode.com/problems/house-robber/submissions/
 
 ## day 15( target 24 questions)
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
+- [x] https://leetcode.com/problems/house-robber-ii/submissions/
+- [debug] https://leetcode.com/problems/minimum-path-sum/
+- [x] https://leetcode.com/problems/largest-perimeter-triangle
+- [x] Array product 
+- [x] https://leetcode.com/problems/trapping-rain-water/
+- [x] https://leetcode.com/problems/range-sum-query-2d-immutable/
+
+
 
 
 
