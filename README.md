@@ -67,7 +67,19 @@
 - https://leetcode.com/problems/running-sum-of-1d-array/
 
 ## day 14( target 20 questions)
-- 
+- [x] https://leetcode.com/problems/transpose-matrix/submissions/ 
+- [x] https://leetcode.com/problems/sort-array-by-parity/
+- [x] https://leetcode.com/problems/pascals-triangle/
+- [x] https://leetcode.com/problems/house-robber/submissions/
+
+## day 15( target 24 questions)
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+
 
 
 
