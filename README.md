@@ -80,6 +80,19 @@
 - [x] https://leetcode.com/problems/trapping-rain-water/
 - [x] https://leetcode.com/problems/range-sum-query-2d-immutable/
 
+## day16
+- https://leetcode.com/problems/n-queens/
+
+
+## day 17
+- https://leetcode.com/problems/min-max-game/
+- https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/
+- https://leetcode.com/problems/replace-elements-in-an-array/
+- https://leetcode.com/problems/n-queens-ii/
+
+
+
+
 
 
 
