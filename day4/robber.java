@@ -1,6 +1,6 @@
 package day4;
 
-class Solution {
+class robber {
     public int rob(int[] nums) {
         // dp array containing the maximum sum that is obtained afterb robbing
         int l = nums.length;
@@ -25,7 +25,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution s = new Solution();
+        robber s = new robber();
         int[] nums = { 1, 2, 3, 1 };
         System.out.println(s.rob(nums));
     }

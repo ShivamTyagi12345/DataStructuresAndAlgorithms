@@ -84,11 +84,38 @@
 - https://leetcode.com/problems/n-queens/
 
 
-## day 17
+## day 17{15 more `target` questions}
 - https://leetcode.com/problems/min-max-game/
 - https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/
 - https://leetcode.com/problems/replace-elements-in-an-array/
 - https://leetcode.com/problems/n-queens-ii/
+- https://leetcode.com/problems/binary-tree-inorder-traversal/
+
+
+## day 18
+- https://leetcode.com/problems/subtree-of-another-tree/
+- https://leetcode.com/problems/range-sum-of-bst/
+- https://leetcode.com/problems/symmetric-tree/ 
+<!-- pay attention to the question that trees Left ST and Right ST are to be checked AND NOT their subtrees -->
+- https://leetcode.com/problems/intersection-of-two-linked-lists/
+
+
+## day 19
+- https://leetcode.com/problems/merge-sorted-array/
+- https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+- https://leetcode.com/problems/merge-two-binary-trees/
+- https://leetcode.com/problems/maximum-depth-of-binary-tree/
+- https://leetcode.com/problems/binary-tree-paths/
+- https://leetcode.com/problems/balanced-binary-tree/
+
+
+
+
+
+
+
+
+
 
 
 

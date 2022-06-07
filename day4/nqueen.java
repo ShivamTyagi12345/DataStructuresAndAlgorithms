@@ -1,8 +1,6 @@
 package day4;
 
-import java.util.*;
-
-class Solution {
+class nqueen {
     public int solveNQueens(int n) {
 
         boolean[][] arr = new boolean[n][n];
@@ -70,7 +68,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution s = new Solution();
+        nqueen s = new nqueen();
         System.out.println(s.solveNQueens(4));
 
     }
