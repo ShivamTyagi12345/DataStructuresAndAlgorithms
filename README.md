@@ -131,6 +131,7 @@
 
 ## day 23
 
+<img width="626" alt="image" src="https://user-images.githubusercontent.com/60812924/173221285-15ce59c7-dfc0-49ad-b5ed-b4cb1dea9f1a.png">
 
 
 
