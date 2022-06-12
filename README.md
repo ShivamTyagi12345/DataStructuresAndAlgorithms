@@ -108,6 +108,29 @@
 - https://leetcode.com/problems/binary-tree-paths/
 - https://leetcode.com/problems/balanced-binary-tree/
 
+## day 20
+- https://leetcode.com/problems/find-if-path-exists-in-graph/submissions/
+- https://leetcode.com/problems/remove-palindromic-subsequences/
+
+<!-- 16 questions daily till 30 june -->
+## day 21
+- https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+- https://leetcode.com/problems/number-of-islands/submissions/
+- https://leetcode.com/problems/flood-fill/
+- https://leetcode.com/problems/find-the-town-judge/
+- https://leetcode.com/problems/path-sum-iii 
+<!-- Do Optimisation -->
+-https://leetcode.com/problems/binary-search-tree-iterator/
+
+## day 22
+- https://leetcode.com/problems/longest-substring-without-repeating-characters/
+- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+- https://leetcode.com/problems/n-th-tribonacci-number/submissions/
+- https://leetcode.com/problems/shortest-bridge/submissions/
+
+## day 23
+
 
 
 
