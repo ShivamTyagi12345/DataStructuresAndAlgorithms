@@ -26,14 +26,14 @@ class ad {
         addEdge(am, 0, 2);
         addEdge(am, 0, 3);
         addEdge(am, 1, 2);
-        // printGraph(am);
+        printGraph(am);
 
-        int[] vis = new int[V];
-        Arrays.fill(vis, 0);
+        // int[] vis = new int[V];
+        // Arrays.fill(vis, 0);
 
-        dfs(am, 0, vis);
-        detectcycle(am, vis, 0, -1);
-        topologicalsort(am, vis);
+        // dfs(am, 0, vis);
+        // detectcycle(am, vis, 0, -1);
+        // topologicalsort(am, vis);
     }
 
     private static void topologicalsort(ArrayList<ArrayList<Integer>> am, int[] vis) {
