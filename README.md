@@ -130,12 +130,10 @@
 - https://leetcode.com/problems/shortest-bridge/submissions/
 
 ## day 23
-
-
-
 <img width="626" alt="image" src="https://user-images.githubusercontent.com/60812924/173221285-15ce59c7-dfc0-49ad-b5ed-b4cb1dea9f1a.png">
 
 ## day 24
+<img width="626" alt="image" src="https://user-images.githubusercontent.com/60812924/173413843-1b559f68-e019-4ff3-a407-358ae95b6ac9.png">
 
 ## day 25
 
