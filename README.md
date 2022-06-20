@@ -138,7 +138,22 @@
 ## day 25
 <img width="617" alt="image" src="https://user-images.githubusercontent.com/60812924/173601176-ac0df023-4fab-4038-8cfb-03259f185c29.png">
 
+## day 26
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/60812924/174510719-ee73beec-3242-4868-9dbd-60b98b992244.png">
 
+## day27
+<img width="560" alt="image" src="https://user-images.githubusercontent.com/60812924/174510779-13a34652-9ecb-4904-a98e-68fda981be85.png">
+<img width="544" alt="image" src="https://user-images.githubusercontent.com/60812924/174510808-9b515e3c-76e4-4658-9604-2d760a999d42.png">
+<img width="624" alt="image" src="https://user-images.githubusercontent.com/60812924/174511078-9681f368-c676-4e48-b93f-625791589701.png">
+
+## day 28
+<img width="607" alt="image" src="https://user-images.githubusercontent.com/60812924/174511140-9aafb7b0-8525-45aa-8b26-c8e3aa7c0e30.png">
+
+## day 29
+<img width="619" alt="image" src="https://user-images.githubusercontent.com/60812924/174511189-83aa7455-8ad5-4bb9-b089-e048c482d2ac.png">
+
+## day 30
+<img width="614" alt="image" src="https://user-images.githubusercontent.com/60812924/174511234-d00e2994-fd4f-475e-b96d-4a606d7a1059.png">
 
 
 
