@@ -155,6 +155,8 @@
 ## day 30
 <img width="614" alt="image" src="https://user-images.githubusercontent.com/60812924/174511234-d00e2994-fd4f-475e-b96d-4a606d7a1059.png">
 
+## day31
+<img width="628" alt="image" src="https://user-images.githubusercontent.com/60812924/174821138-d6fa6462-e78b-4421-b6d2-120293dbe7f3.png">
 
 
 
