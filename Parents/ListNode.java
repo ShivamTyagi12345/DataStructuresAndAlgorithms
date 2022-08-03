@@ -1,8 +1,8 @@
-package parent_class;
+package Parents;
 
 public class ListNode {
-    public int val;
-    public ListNode next;
+    public  int val;
+    public  ListNode next;
 
     ListNode() {
     }
@@ -11,7 +11,7 @@ public class ListNode {
         this.val = val;
     }
 
-    public ListNode(int val, ListNode next) {
+    ListNode(int val, ListNode next) {
         this.val = val;
         this.next = next;
     }
