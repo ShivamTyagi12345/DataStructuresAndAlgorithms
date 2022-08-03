@@ -1,4 +1,4 @@
-# Dsa45
+# Dsa
 ## day1
 - [x] https://leetcode.com/problems/design-add-and-search-words-data-structure/
 - [x] https://leetcode.com/problems/top-k-frequent-elements
